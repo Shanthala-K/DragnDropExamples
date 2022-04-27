@@ -1,5 +1,6 @@
-                                      Drag And Drop Controls Using Vb.Net
-                                      Visual Basic.Net Drag & Drop Tutorial
+                                  **Drag And Drop Controls Using Vb.Net**
+                                  
+                                 ** Visual Basic.Net Drag & Drop Tutorial**
                                           
 **Contents**
 1. Introduction
