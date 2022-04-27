@@ -275,11 +275,11 @@ Fig5: Screenshot for example3 controls before being dragged to the target.
 
 Fig6: screenshot for example3 control after being dragged to a target.
 
-4.2 Downloadable zip file
+**4.2 Downloadable zip file**
 
 [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8569040/draganddrop-example3.zip)
 
 **5. References**
 
-  5.1 Microsoft Visual studio 2013 MSDN
+  **5.1 Microsoft Visual studio 2013 MSDN**
 
