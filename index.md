@@ -1,5 +1,5 @@
-                                       **Drag And Drop Controls Using Vb.Net
-                                      Visual Basic.Net Drag & Drop Tutorial**
+                                      Drag And Drop Controls Using Vb.Net
+                                      Visual Basic.Net Drag & Drop Tutorial
                                           
 **Contents**
 1. Introduction
@@ -214,7 +214,7 @@ Fig1: Screenshot for example1 control before being dragged to a target
 
 Fig2: Screenshot for example1 control after being dragged to a target
 
-2.2 Downloadable zip file
+**2.2 Downloadable zip file**
 
 [simpledraganddropdemo.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8569018/simpledraganddropdemo.zip)
 
@@ -282,13 +282,4 @@ Fig6: screenshot for example3 control after being dragged to a target.
 **5. References**
 
   5.1 Microsoft Visual studio 2013 MSDN
-
-
-
-
-
-
-
-
-
 
