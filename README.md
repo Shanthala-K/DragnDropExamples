@@ -223,6 +223,10 @@ Screen shots for the above example is as shown below
   
   Fig1: Screenshot for example1 control before being dragged to a target
   
+![img4_dragndrop](https://user-images.githubusercontent.com/99252442/165743325-e7724f6a-193c-4e14-b2a4-1ee749ca61b6.jpg)
+
+Fig2: Screenshot for example1 control after being dragged to a target
+
 
       
 
