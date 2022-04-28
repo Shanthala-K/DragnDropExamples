@@ -10,6 +10,7 @@
       1.3 Properties and methods of drag and drop
 
       1.4 System Requirements
+      
 **2. Drag & Drop Operation-a Simple Examples**
 
       2.1 Simple example for Drag & Drop type operation
@@ -252,8 +253,49 @@ Example Two Drag And Drop Controls Using Vb.Net
       Fig3: Screenshot for match the following type question
       Controls before being dragged to a target
       Here boxes given in pink color are dragged and dropped in the target (placeholder boxes).
+      
       ![img6_dragndrop](https://user-images.githubusercontent.com/99252442/165732249-b337d7bd-0642-4244-8d39-99262cb53f2a.jpg)
       
+    Fig4: Screenshot fro example2 controls after being dragged to a target
+    3.2 Downloadable zip file
+    
+    [dragdrop-example2.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8581878/dragdrop-example2.zip)
+    
+    4. Example3 for Drag & drop type question
+
+      4.1 Brief description of example3
+
+      Example 3 is slightly different from Example2.
+
+      This example (project) contains Drag & Drop for fill in the blanks type questions.
+
+      Also it explains how to display the blank spaces in middle of the question
+
+      Here control for questions, control for placeholder and control for answer option is created at runtime as control array
+
+      (i.e. minimum no. of option given are 12)
+
+      These options are dragged and dropped on the required places.
+
+      For more information about this example you can download a zip file.
+
+      Screen shots for example3 is given below
+
+      ![img7_dragndrop](https://user-images.githubusercontent.com/99252442/165733512-74d1d351-96eb-4af3-a2a3-21082cf46091.jpg)
+      
+      Fig5: Screenshot for example3 controls before being dragged to the target.
+      
+      ![img8_dragndrop](https://user-images.githubusercontent.com/99252442/165733594-aefd48dd-17da-4124-84a9-16445e55f7e1.jpg)
+      
+      Fig6: screenshot for example3 control after being dragged to a target.
+
+      4.2 Downloadable zip file
+      
+      [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8581898/draganddrop-example3.zip)
+
+      5. References
+
+       5.1 Microsoft Visual studio 2013 MSDN
 
 
 
