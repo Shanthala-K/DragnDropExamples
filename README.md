@@ -57,15 +57,15 @@
       
       Fig 1: Images before being dragged to the target
 
-       Drag and drop the relevant images
-       
-       ![img2_dragndrop](https://user-images.githubusercontent.com/99252442/165730104-cd52531e-7c4c-4635-ac46-e5cfdf5c312f.jpg)
-       
-       Fig2. Images after being dragged to the target
-       
-       1.2 How Drag and Drop works
+     ![img2_dragndrop](https://user-images.githubusercontent.com/99252442/165742119-d316da29-a933-40a7-ab61-65a9eb86c7c0.jpg)
+     
+     Fig2. Images after being dragged to the target
 
-      Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you       are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses           clipboard; drag and drop uses a data object, which is in essence private clipboard.
+      1.2 How Drag and Drop works
+
+      Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses clipboard; drag and drop uses a data object, which is in essence private clipboard.
+
+
 
       
       
