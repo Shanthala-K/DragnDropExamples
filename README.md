@@ -227,6 +227,10 @@ Screen shots for the above example is as shown below
 
 Fig2: Screenshot for example1 control after being dragged to a target
 
+2.2 Downloadable zip file
+
+[simpledraganddropdemo.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8582272/simpledraganddropdemo.zip)
+
 
       
 
