@@ -1,6 +1,7 @@
 # Drag And Drop Controls Using Vb.Net
 ## How to darg and drop controls at runtime in VB.net
 ### Contents
+
 **1. Introduction**
 
       1.1 Simple Definition for Drag & Drop
@@ -31,10 +32,10 @@
    
 **5. References**
 
-      5.1 Reference 1
+      5.1 Reference
       
       
-     **1. Introduction**
+     1. Introduction
      
       1.1. Simple definition for drag & drop
       
