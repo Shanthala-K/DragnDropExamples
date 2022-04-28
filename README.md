@@ -64,9 +64,9 @@
        
        1.2 How Drag and Drop works
 
-Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses clipboard; drag and drop uses a data object, which is in essence private clipboard.
+      Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you       are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses           clipboard; drag and drop uses a data object, which is in essence private clipboard.
 
-1.3 Properties and methods of Drag & drop
+**1.3 Properties and methods of Drag & drop**
 
 Here is the sequence of events in drag and drop operation:
 
@@ -256,12 +256,13 @@ Example Two Drag And Drop Controls Using Vb.Net
       
       ![img6_dragndrop](https://user-images.githubusercontent.com/99252442/165732249-b337d7bd-0642-4244-8d39-99262cb53f2a.jpg)
       
-    Fig4: Screenshot fro example2 controls after being dragged to a target
-    3.2 Downloadable zip file
+      Fig4: Screenshot fro example2 controls after being dragged to a target
+      
+    **3.2 Downloadable zip file**
     
     [dragdrop-example2.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8581878/dragdrop-example2.zip)
     
-    4. Example3 for Drag & drop type question
+    **4. Example3 for Drag & drop type question**
 
       4.1 Brief description of example3
 
@@ -289,11 +290,11 @@ Example Two Drag And Drop Controls Using Vb.Net
       
       Fig6: screenshot for example3 control after being dragged to a target.
 
-      4.2 Downloadable zip file
+      **4.2 Downloadable zip file**
       
       [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8581898/draganddrop-example3.zip)
 
-      5. References
+      **5. References**
 
        5.1 Microsoft Visual studio 2013 MSDN
 
