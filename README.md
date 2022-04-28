@@ -231,7 +231,17 @@ Fig2: Screenshot for example1 control after being dragged to a target
 
 [simpledraganddropdemo.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8582272/simpledraganddropdemo.zip)
 
+Example Two Drag And Drop Controls Using Vb.Net
 
+3. Another Example for drag and drop type operation- Example2
+
+3.1. Explains how example2 is different from example1
+
+This example explains how drag & drop is performed for different type of formats.
+Dragging operation i.e. dragging the control from source to destination is same as what is explained in Example1 that means same event procedures are used to perform Drag & Drop operation.
+In Example1 simple images are simple images are dragged from one place to another
+i.e. dragged from source & dropped on to appropriate places (target).
+But in this example array of controls created dynamically at runtime based on the number of options. Answer options controls are also created dynamically (minimum 8 option) and then dragged to a appropriate place.
       
 
 
