@@ -4,40 +4,40 @@
 
 **1. Introduction**
 
-      1.1 Simple Definition for Drag & Drop
+&emsp;1.1 Simple Definition for Drag & Drop
 
-      1.2 How drag n drop works
+&emsp;1.2 How drag n drop works
 
-      1.3 Properties and methods of drag and drop
+&emsp;1.3 Properties and methods of drag and drop
 
-      1.4 System Requirements
+&emsp;1.4 System Requirements
       
 **2. Drag & Drop Operation-a Simple Examples**
 
-      2.1 Simple example for Drag & Drop type operation
+&emsp;2.1 Simple example for Drag & Drop type operation
       
-      2.2 Downloadable Zip File
+&emsp;2.2 Downloadable Zip File
       
 **3. VB.net Drag and drop type operation-Another Example**
 
-      3.1 Explains how example2 is Different from Example1
+&emsp;3.1 Explains how example2 is Different from Example1
 
-      3.2 Downloadable Zip File
+&emsp;3.2 Downloadable Zip File
 
 **4. An advanced use of Drag-n-drop in VB.net application with example**
 
-      4.1 Brief Description
+&emsp;4.1 Brief Description
 
-      4.2 Downloadable Zip File
+&emsp;4.2 Downloadable Zip File
    
 **5. References**
 
-      5.1 Reference
+&emsp;5.1 Reference
       
       
 **1. Introduction**
 
- **1.1. Simple definition for drag & drop**
+&ensp; **1.1. Simple definition for drag & drop**
   
 In computer graphical user interface drag & drop is the action of clicking on an object (virtual object on the screen) and dragging itto different location            (on screen) as required.
 
@@ -99,7 +99,7 @@ The example code given in the tutorial runs on any Windows computer running wind
 
 **2. Drag and Drop operation-simple example**
 
-**2.1. Basic drag & drop operation example**
+ &emsp;**2.1. Basic drag & drop operation example**
 
 Let's look at some examples, starting with simple drag and drop operation. Create a Visual Basic.net windows application and design a form with control & Drag Drop event procedure as follows
 
@@ -230,7 +230,7 @@ Screen shots for the above example is as shown below
 
 Fig2: Screenshot for example1 control after being dragged to a target
 
-**2.2 Downloadable zip file**
+ &emsp;**2.2 Downloadable zip file**
 
 [simpledraganddropdemo.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8582272/simpledraganddropdemo.zip)
 
@@ -238,7 +238,7 @@ Fig2: Screenshot for example1 control after being dragged to a target
 
 **3. Another Example for drag and drop type operation- Example2**
 
-**3.1. Explains how example2 is different from example1**
+ &emsp;**3.1. Explains how example2 is different from example1**
 
 This example explains how drag & drop is performed for different type of formats.
 Dragging operation i.e. dragging the control from source to destination is same as what is explained in Example1 that means same event procedures are used to perform Drag & Drop operation.
@@ -259,13 +259,13 @@ Here boxes given in pink color are dragged and dropped in the target (placeholde
 
 Fig4: Screenshot fro example2 controls after being dragged to a target
 
-**3.2 Downloadable zip file**
+ &emsp;**3.2 Downloadable zip file**
 
 [dragdrop-example2.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8588175/dragdrop-example2.zip)
 
 **4. Example3 for Drag & drop type question**
 
-&ensp;**4.1 Brief description of example3**
+ &emsp;;**4.1 Brief description of example3**
 
  Example 3 is slightly different from Example2.
 
@@ -298,7 +298,7 @@ Fig6: screenshot for example3 control after being dragged to a target.
       
  **5. References**  
     
- &ensp;**5.1 Microsoft Visual studio 2013 MSDN**
+  &emsp;**5.1 Microsoft Visual studio 2013 MSDN**
 
 
 
