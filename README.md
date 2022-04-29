@@ -39,7 +39,7 @@
 
 
      
-      1.3 Properties and methods of Drag & drop
+     
 
 Here is the sequence of events in drag and drop operation:
 
