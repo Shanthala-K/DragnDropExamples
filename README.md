@@ -37,7 +37,7 @@
       
 **1. Introduction**
 
-1.1. Simple definition for drag & drop
+      **1.1. Simple definition for drag & drop**
   
   In computer graphical user interface drag & drop is the action of clicking on an object (virtual object on the screen) and dragging itto different location            (on screen) as required.
 
