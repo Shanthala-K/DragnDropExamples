@@ -265,37 +265,38 @@ Fig4: Screenshot fro example2 controls after being dragged to a target
 
 **4. Example3 for Drag & drop type question**
 
-     **4.1 Brief description of example3**
+**4.1 Brief description of example3**
 
-      Example 3 is slightly different from Example2.
+ Example 3 is slightly different from Example2.
 
-      This example (project) contains Drag & Drop for fill in the blanks type questions.
+ This example (project) contains Drag & Drop for fill in the blanks type questions.
 
-      Also it explains how to display the blank spaces in middle of the question
+ Also it explains how to display the blank spaces in middle of the question
 
-      Here control for questions, control for placeholder and control for answer option is created at runtime as control array
+Here control for questions, control for placeholder and control for answer option is created at runtime as control array
 
-      (i.e. minimum no. of option given are 12)
+(i.e. minimum no. of option given are 12)
 
-      These options are dragged and dropped on the required places.
+These options are dragged and dropped on the required places.
 
-      For more information about this example you can download a zip file.
+For more information about this example you can download a zip file.
 
-      Screen shots for example3 is given below
+Screen shots for example3 is given below
 
-      ![img7_dragndrop](https://user-images.githubusercontent.com/99252442/165886259-5e8398ec-3fcb-4dc5-be5a-582ea262832a.jpg)
+![img7_dragndrop](https://user-images.githubusercontent.com/99252442/165886259-5e8398ec-3fcb-4dc5-be5a-582ea262832a.jpg)
       
-      Fig5: Screenshot for example3 controls before being dragged to the target.
+Fig5: Screenshot for example3 controls before being dragged to the target.
       
-      ![img7_dragndrop](https://user-images.githubusercontent.com/99252442/165886306-1265d2ff-d3c1-4d75-a35d-836078d6652e.jpg)
+![img7_dragndrop](https://user-images.githubusercontent.com/99252442/165886306-1265d2ff-d3c1-4d75-a35d-836078d6652e.jpg)
       
-      Fig6: screenshot for example3 control after being dragged to a target.
+Fig6: screenshot for example3 control after being dragged to a target.
 
-     **4.2 Downloadable zip file**
+**4.2 Downloadable zip file**
 
-      [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8588192/draganddrop-example3.zip)
+  [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8588302/draganddrop-example3.zip)
+   
       
-    **5. References**
+ **5. References**  
     
    **5.1 Microsoft Visual studio 2013 MSDN**
 
