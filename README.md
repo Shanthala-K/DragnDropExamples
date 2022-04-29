@@ -37,7 +37,7 @@
       
 **1. Introduction**
 
-      **1.1. Simple definition for drag & drop**
+1.1. Simple definition for drag & drop
   
   In computer graphical user interface drag & drop is the action of clicking on an object (virtual object on the screen) and dragging itto different location            (on screen) as required.
 
@@ -61,13 +61,13 @@
  
  Fig2. Images after being dragged to the target
 
-  1.2 How Drag and Drop works
+  **1.2 How Drag and Drop works**
 
   Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you 
  are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses 
  clipboard; drag and drop uses a data object, which is in essence private clipboard.
 
- 1.3 Properties and methods of Drag & drop
+ **1.3 Properties and methods of Drag & drop**
 
 Here is the sequence of events in drag and drop operation:
 
@@ -89,7 +89,7 @@ The DoDragDrop method takes 2 parameters
 
 4. If the user releases the mouse button over a valid drop target, the DragDrop event is raised. Code in the DragDrop event handler extracts the data from the DataObject object and displays it in the target control.
 
-1.4. System Requirement
+**1.4. System Requirement**
 
 The example code given in the tutorial runs on any Windows computer running windows7, XP, vista. Project is done in Visual Basic. Net. VB programmers primarily intend the tutorial for use, and you may be requiring VB.net software installed on your computer to run the program.
 
@@ -297,7 +297,7 @@ Fig4: Screenshot fro example2 controls after being dragged to a target
       
     **5. References**
     
-      5.1 Microsoft Visual studio 2013 MSDN
+   **5.1 Microsoft Visual studio 2013 MSDN**
 
 
 
