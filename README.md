@@ -37,9 +37,9 @@
       
 **1. Introduction**
 
-1.1. Simple definition for drag & drop
+ **1.1. Simple definition for drag & drop**
   
-  In computer graphical user interface drag & drop is the action of clicking on an object (virtual object on the screen) and dragging itto different location            (on screen) as required.
+In computer graphical user interface drag & drop is the action of clicking on an object (virtual object on the screen) and dragging itto different location            (on screen) as required.
 
   The basic sequence involved in drag & drop is
 
@@ -230,15 +230,15 @@ Screen shots for the above example is as shown below
 
 Fig2: Screenshot for example1 control after being dragged to a target
 
-2.2 Downloadable zip file
+**2.2 Downloadable zip file**
 
 [simpledraganddropdemo.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8582272/simpledraganddropdemo.zip)
 
-Example Two Drag And Drop Controls Using Vb.Net
+**Example Two Drag And Drop Controls Using Vb.Net**
 
-3. Another Example for drag and drop type operation- Example2
+**3. Another Example for drag and drop type operation- Example2**
 
-3.1. Explains how example2 is different from example1
+**3.1. Explains how example2 is different from example1**
 
 This example explains how drag & drop is performed for different type of formats.
 Dragging operation i.e. dragging the control from source to destination is same as what is explained in Example1 that means same event procedures are used to perform Drag & Drop operation.
@@ -259,13 +259,13 @@ Here boxes given in pink color are dragged and dropped in the target (placeholde
 
 Fig4: Screenshot fro example2 controls after being dragged to a target
 
-3.2 Downloadable zip file
+**3.2 Downloadable zip file**
 
 [dragdrop-example2.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8588175/dragdrop-example2.zip)
 
-4. Example3 for Drag & drop type question
+**4. Example3 for Drag & drop type question**
 
-      4.1 Brief description of example3
+     **4.1 Brief description of example3**
 
       Example 3 is slightly different from Example2.
 
