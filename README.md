@@ -292,7 +292,7 @@ Fig4: Screenshot fro example2 controls after being dragged to a target
 
       [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8588192/draganddrop-example3.zip)
       
-    ** 5. References**
+    **5. References**
     
       5.1 Microsoft Visual studio 2013 MSDN
 
