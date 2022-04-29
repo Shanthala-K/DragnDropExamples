@@ -265,7 +265,7 @@ Fig4: Screenshot fro example2 controls after being dragged to a target
 
 **4. Example3 for Drag & drop type question**
 
-**4.1 Brief description of example3**
+&ensp;**4.1 Brief description of example3**
 
  Example 3 is slightly different from Example2.
 
@@ -298,7 +298,7 @@ Fig6: screenshot for example3 control after being dragged to a target.
       
  **5. References**  
     
-   **5.1 Microsoft Visual studio 2013 MSDN**
+ &ensp;**5.1 Microsoft Visual studio 2013 MSDN**
 
 
 
