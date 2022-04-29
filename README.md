@@ -288,7 +288,7 @@ Fig4: Screenshot fro example2 controls after being dragged to a target
       
       Fig6: screenshot for example3 control after being dragged to a target.
 
-      4.2 Downloadable zip file
+     **4.2 Downloadable zip file**
 
       [draganddrop-example3.zip](https://github.com/Shanthala-K/DragnDropExamples/files/8588192/draganddrop-example3.zip)
       
