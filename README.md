@@ -94,12 +94,13 @@ The DoDragDrop method takes 2 parameters
 The example code given in the tutorial runs on any Windows computer running windows7, XP, vista. Project is done in Visual Basic. Net. VB programmers primarily intend the tutorial for use, and you may be requiring VB.net software installed on your computer to run the program.
 
 
-Example One Drag And Drop Controls Using Vb.Net
+**Example One Drag And Drop Controls Using Vb.Net**
 
 
-2. Drag and Drop operation-simple example
+**2. Drag and Drop operation-simple example**
 
-2.1. Basic drag & drop operation example
+      **2.1. Basic drag & drop operation example**
+
 Let's look at some examples, starting with simple drag and drop operation. Create a Visual Basic.net windows application and design a form with control & Drag Drop event procedure as follows
 
 To enable drag & drop for text
