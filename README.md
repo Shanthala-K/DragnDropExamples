@@ -37,9 +37,37 @@
       
 **1. Introduction**
 
+1.1. Simple definition for drag & drop
+  
+  In computer graphical user interface drag & drop is the action of clicking on an object (virtual object on the screen) and dragging itto different location            (on screen) as required.
 
-     
-     
+  The basic sequence involved in drag & drop is
+
+  1. Press and hold down the button on the mouse or the other pointing device to “grab” the object.
+  2. Drag” the object/cursor/pointing device to the desired location.
+  3. “Drop”the object by releasing the button.
+
+  Example:
+
+  A simple drag & drop sequence is given below.
+
+  Fig1 contains 2 columns: first column contains animal names and second column contains small boxes where relevant images are dropped.
+  
+  ![img1_dragndrop](https://user-images.githubusercontent.com/99252442/165729500-df65bf76-12af-44b5-ae54-3a0c89099a68.jpg)
+  
+  Fig 1: Images before being dragged to the target
+
+ ![img2_dragndrop](https://user-images.githubusercontent.com/99252442/165742119-d316da29-a933-40a7-ab61-65a9eb86c7c0.jpg)
+ 
+ Fig2. Images after being dragged to the target
+
+  1.2 How Drag and Drop works
+
+  Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you 
+ are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses 
+ clipboard; drag and drop uses a data object, which is in essence private clipboard.
+
+ 1.3 Properties and methods of Drag & drop
 
 Here is the sequence of events in drag and drop operation:
 
