@@ -242,6 +242,21 @@ Dragging operation i.e. dragging the control from source to destination is same 
 In Example1 simple images are simple images are dragged from one place to another
 i.e. dragged from source & dropped on to appropriate places (target).
 But in this example array of controls created dynamically at runtime based on the number of options. Answer options controls are also created dynamically (minimum 8 option) and then dragged to a appropriate place.
+
+To grab the more information about this download the appropriate zip file.
+Screen shots for example2 is given below
+
+![img5_dragndrop](https://user-images.githubusercontent.com/99252442/165885747-75d90958-2535-4f11-99d3-6ce775033080.jpg)
+
+Fig3: Screenshot for match the following type question
+Controls before being dragged to a target
+Here boxes given in pink color are dragged and dropped in the target (placeholder boxes).
+
+![img6_dragndrop](https://user-images.githubusercontent.com/99252442/165885774-9c3e9f94-2bd0-460d-b5de-c8073b059eb7.jpg)
+
+
+
+
       
 
 
