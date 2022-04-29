@@ -99,7 +99,7 @@ The example code given in the tutorial runs on any Windows computer running wind
 
 **2. Drag and Drop operation-simple example**
 
-      **2.1. Basic drag & drop operation example**
+**2.1. Basic drag & drop operation example**
 
 Let's look at some examples, starting with simple drag and drop operation. Create a Visual Basic.net windows application and design a form with control & Drag Drop event procedure as follows
 
