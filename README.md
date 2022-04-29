@@ -299,6 +299,11 @@ Fig6: screenshot for example3 control after being dragged to a target.
  **5. References**  
     
   &emsp;**5.1 Microsoft Visual studio 2013 MSDN**
+  
+  Check out below link to Tutorialsweb for more details
+  
+  [https://www.tutorialsweb.com/dragndrop_tut/vbdotnet-1.htm]
+  
 
 
 
