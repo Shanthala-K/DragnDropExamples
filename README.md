@@ -35,7 +35,7 @@
       5.1 Reference
       
       
-1. Introduction
+**1. Introduction**
      
       1.1. Simple definition for drag & drop
       
@@ -63,7 +63,9 @@
 
       1.2 How Drag and Drop works
 
-Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses clipboard; drag and drop uses a data object, which is in essence private clipboard.
+      Drag and drop is actually the same as cutting and pasting (or copying and pasting) using the mouse instead of keyboard. In both cases you have source (where you 
+     are cutting or copying from) and a target (where you are pasting to). During either operation, a copy of the data is maintained in memory. Cut and paste uses 
+     clipboard; drag and drop uses a data object, which is in essence private clipboard.
 
 1.3 Properties and methods of Drag & drop
 
